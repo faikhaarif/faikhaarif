@@ -1,16 +1,17 @@
-### i'm faikha 👋
+### i'm faikha arif
 
-<!--
-**faikhaarif/faikhaarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Biodata
 
-Here are some ideas to get you started:
+## Personal Information
+- **Name:** Faikha Arif Nafisa
+- **Date of Birth:** November,30 2007
+- **Gender:** Female
+- **Nationality:** Indonesian
+- 
+  ## Contact Information
+  
+- **Address:** Jl.Pramuka, RT 04/06, Sokaraja Kulon, Sokaraja, Banyumas, Jawa Tengah
+- **Phone:** +62895421922696
+- **Email:** arifnafisaaikha@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
